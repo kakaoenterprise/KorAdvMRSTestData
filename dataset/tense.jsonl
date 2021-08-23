@@ -1,0 +1,158 @@
+{"context": ["너 콘서트 간다고 했던거는 잘 갔다 왔어?", "응, 막상 가니까 너무 좋았어 진짜 ㅠㅠ"], "candidates": [{"text": "오오, 나도 한 번 가보고 싶다", "label": 1}, {"text": "콘서트 잘 갔다 와~!", "label": 0}], "src_dlg_id": "d182", "did": "ten1"}
+{"context": ["이번에 강릉 가기로 했어!", "헐... 나도 강릉 가고 싶어..ㅠㅠ", "ㅋㅋㅋㅋ부럽지?", "완전... 부럽다...", "가서 스트레스 좀 풀고 오려고ㅋㅋ"], "candidates": [{"text": "가서 잘 놀고 와 ㅋㅋ", "label": 1}, {"text": "재밌게 놀다 왔넹", "label": 0}], "src_dlg_id": "d13", "did": "ten2"}
+{"context": ["오늘 시험 점수 나왔어!", "우와! 어떤데?", "당연히 잘 봤지~"], "candidates": [{"text": "축하해!", "label": 1}, {"text": "시험 잘 봐!", "label": 0}], "src_dlg_id": "d168", "did": "ten3"}
+{"context": ["오늘 저녁으로 치킨 먹었어요.", "와, 맛있었겠다.", "치킨은 언제 먹어도 최고.."], "candidates": [{"text": "진짜 인정하는 부분...", "label": 1}, {"text": "오늘은 치킨 먹어!", "label": 0}], "src_dlg_id": "d118", "did": "ten4"}
+{"context": ["나 정말 행복해!", "무슨 일이야?", "면접 합격했지롱ㅎㅎ"], "candidates": [{"text": "축하해!!", "label": 1}, {"text": "꼭 합격할 수 있을 거야.", "label": 0}], "src_dlg_id": "d162", "did": "ten5"}
+{"context": ["내 남자친구 이번에 공무원 합격했대!", "우와, 남친 공부 진짜 열심히 했나보네.", "응, 드디어 합격이야."], "candidates": [{"text": "축하드린다고 전해줘.", "label": 1}, {"text": "꼭 합격할 수 있을 거야.", "label": 0}], "src_dlg_id": "d163", "did": "ten6"}
+{"context": ["야 오늘 게임 들어와", "아ㅋㅋㅋ 자신 있냐? 패.배.자.", "아 저번에는 컨디션이 안 좋았던 거라고ㅡㅡ"], "candidates": [{"text": "너 그러다가 오늘도 지면 어쩌려고 그래", "label": 1}, {"text": "에궁 컨디션 안 좋다니 ㅠ 어째 ㅠㅠ", "label": 0}], "src_dlg_id": "d149", "did": "ten7"}
+{"context": ["야, 저녁 뭐 먹을까.", "걍 있는 거 먹지 뭘 물어.", "집에 먹을 거 하나도 안 사놨는데 돈도 없음 ㅋㅋㅋ"], "candidates": [{"text": "헐랭, 돈 조금 빌려줄까?", "label": 1}, {"text": "맛있게 먹었어?", "label": 0}], "src_dlg_id": "d140", "did": "ten8"}
+{"context": ["이번에 강릉 가기로 했어!", "헐... 나도 강릉 가고 싶어..ㅠㅠ", "ㅋㅋㅋㅋ부럽지?", "완전... 부럽다...", "가서 스트레스 좀 풀고 오려고ㅋㅋ"], "candidates": [{"text": "계획은 다 짰어?", "label": 1}, {"text": "재밌게 놀다 왔넹", "label": 0}], "src_dlg_id": "d13", "did": "ten9"}
+{"context": ["밥 먹고 왔다.", "뭐 먹었어?"], "candidates": [{"text": "든든하게 국밥 한 뚝배기했지", "label": 1}, {"text": "이제 먹으러 가려고.", "label": 0}], "src_dlg_id": "d151", "did": "ten10"}
+{"context": ["아, 심심한데 뭐하냐", "나 지금 운동 하는 중", "운동 끝나고 맥주나 한 잔 할래?", "맥주 좋지, 어디서 볼까?"], "candidates": [{"text": "거기 놀이터에서 보자!", "label": 1}, {"text": "너 벌써 맥주 한 잔 했냐?", "label": 0}], "src_dlg_id": "d143", "did": "ten11"}
+{"context": ["뭐해?", "지금 시나리오 쓰는 중이야", "작가로 데뷔하려고?"], "candidates": [{"text": "응, 일단 시나리오 공모전부터 나가보려고", "label": 1}, {"text": "글쎄. 시나리오나 써 볼까?", "label": 0}], "src_dlg_id": "d194", "did": "ten12"}
+{"context": ["생일인데 맛있는 거 많이 먹었어? ㅋㅋ", "응, 여자친구랑 호텔 뷔페 갔다 왔어."], "candidates": [{"text": "오오 완전 맛있었겠다.", "label": 1}, {"text": "맛있게 먹고 와 ㅋㅋ", "label": 0}], "src_dlg_id": "d189", "did": "ten13"}
+{"context": ["밥 먹었어?", "방금 라면 먹었어요."], "candidates": [{"text": "나도 라면이나 먹을까.", "label": 1}, {"text": "맛있게 먹어.", "label": 0}], "src_dlg_id": "d155", "did": "ten14"}
+{"context": ["너 저녁 먹었어?", "아직 안 먹었는데, 너는?", "좀 이따가 칼국수 먹으려고."], "candidates": [{"text": "굳굳 날도 추운데 칼국수 최고지", "label": 1}, {"text": "벌써 칼국수 다 먹었구나", "label": 0}], "src_dlg_id": "d89", "did": "ten15"}
+{"context": ["반차 내고 퇴근해서 집 오니까 너무 좋다 ㅠㅠ", "아, 오늘 반차 완전 부럽다 ㅠㅠ", "역시 집이 좋아 ㅎ"], "candidates": [{"text": "하 나도 이번 달에 휴가를 쓰고야 말겠어", "label": 1}, {"text": "집 빨리 가 ㅎ", "label": 0}], "src_dlg_id": "d200", "did": "ten16"}
+{"context": ["너 베테랑 봤어? 진짜 재밌다!", "응, 나 그 영화 다 봤지."], "candidates": [{"text": "넌 어땠어?", "label": 1}, {"text": "재밌게 보고 와", "label": 0}], "src_dlg_id": "d167", "did": "ten17"}
+{"context": ["너 저녁 먹었어?", "아직 안 먹었는데, 너는?", "좀 이따가 칼국수 먹으려고."], "candidates": [{"text": "굳굳 날도 추운데 칼국수 최고지", "label": 1}, {"text": "칼국수 맛있었지?", "label": 0}], "src_dlg_id": "d89", "did": "ten18"}
+{"context": ["헐 지금 눈 오네?", "미친, 지금 눈 온다고?"], "candidates": [{"text": "어, 완전 많이 쌓였어!", "label": 1}, {"text": "그러니까 눈 왔었잖아", "label": 0}], "src_dlg_id": "d130", "did": "ten19"}
+{"context": ["어디 갔다 왔어?", "스벅에서 커피 마시고 왔어"], "candidates": [{"text": "어디 카페 갔다 왔어?", "label": 1}, {"text": "스벅에서 마시려고 하는구나.", "label": 0}], "src_dlg_id": "d5", "did": "ten20"}
+{"context": ["해외여행 가본 적 있어?", "아니, 넌 가봤어?", "난 작년에 일본 가봤어!"], "candidates": [{"text": "일본 어때?", "label": 1}, {"text": "일본 언제 갈 거야?", "label": 0}], "src_dlg_id": "d123", "did": "ten21"}
+{"context": ["오늘 주말인데 뭐 해?", "나 가족들이랑 다같이 장 보러 가려고!"], "candidates": [{"text": "귀찮으면 인터넷으로 시켜!", "label": 1}, {"text": "시장 갔어?", "label": 0}], "src_dlg_id": "d91", "did": "ten22"}
+{"context": ["와 나 배 너무 고픈데 점심 언제 먹지ㅜ"], "candidates": [{"text": "지금 먹으면 되죠~", "label": 1}, {"text": "점심 언제 먹었어?", "label": 0}], "src_dlg_id": "d175", "did": "ten23"}
+{"context": ["방금 영화 범죄도시 봤는데 완전 재밌다."], "candidates": [{"text": "오, 그거 요즘 평이 좋더라구요!", "label": 1}, {"text": "오. 재밌게 봐.", "label": 0}], "src_dlg_id": "d72", "did": "ten24"}
+{"context": ["밥 먹고 왔다.", "뭐 먹었어?"], "candidates": [{"text": "닭볶음탕!", "label": 1}, {"text": "이제 먹으러 가려고.", "label": 0}], "src_dlg_id": "d151", "did": "ten25"}
+{"context": ["와, 오늘 저녁 진짜 잘 먹었다 그치?", "진짜, 회만으로 이렇게 배 채운 거는 처음인 듯"], "candidates": [{"text": "나도ㅋㅋ 우리 엄청 많이 먹은 듯", "label": 1}, {"text": "회 맛있게 먹어~", "label": 0}], "src_dlg_id": "d185", "did": "ten26"}
+{"context": ["연말인데 뭐 하고 계세요?", "지금 언니 따라 안양천에 러닝하러 왔어"], "candidates": [{"text": "안양천 러닝이라니, 멋있어요!", "label": 1}, {"text": "내일 러닝하러 가는 거야?", "label": 0}], "src_dlg_id": "d80", "did": "ten27"}
+{"context": ["나 폰 바꿨다ㅋㅋㅋㅋㅋㅋㅋ", "헐... 너무 부럽다...", "아는 사람한테 죄다 자랑하는 중임ㅋㅋㅋㅋ"], "candidates": [{"text": "뭐 샀는데?", "label": 1}, {"text": "폰 언제 바꿔?", "label": 0}], "src_dlg_id": "d11", "did": "ten28"}
+{"context": ["와, 진짜 너무 힘들었다.", "오, 시험 이제 다 끝난 거야?", "응, 이제 시험 다 끝났어 ㅠㅠ"], "candidates": [{"text": "오오 이제 집가서 디비 자자", "label": 1}, {"text": "시험 제발 끝나면 좋겠다...", "label": 0}], "src_dlg_id": "d187", "did": "ten29"}
+{"context": ["아 너무 힘들다.", "오늘 뭐 했어요?", "회사 갔다가 이제 집 왔어요."], "candidates": [{"text": "야근한 거야?", "label": 1}, {"text": "얼른 집으로 와.", "label": 0}], "src_dlg_id": "d29", "did": "ten30"}
+{"context": ["어디 갔다 왔어?", "스벅에서 커피 마시고 왔어"], "candidates": [{"text": "커피 뭐 마셨어?", "label": 1}, {"text": "지금 커피 마시고 있어?", "label": 0}], "src_dlg_id": "d5", "did": "ten31"}
+{"context": ["너 저녁 먹었어?", "아직 안 먹었는데, 너는?", "좀 이따가 칼국수 먹으려고."], "candidates": [{"text": "오옹 칼국수 맛있겠다", "label": 1}, {"text": "칼국수 맛있었지?", "label": 0}], "src_dlg_id": "d89", "did": "ten32"}
+{"context": ["와, 오늘 저녁 진짜 잘 먹었다 그치?", "진짜, 회만으로 이렇게 배 채운 거는 처음인 듯"], "candidates": [{"text": "종류 다양하게 진짜 많이 잘 먹었다", "label": 1}, {"text": "회 맛있게 먹어~", "label": 0}], "src_dlg_id": "d185", "did": "ten33"}
+{"context": ["밥 먹었어?", "방금 라면 먹었어요."], "candidates": [{"text": "무슨 라면?", "label": 1}, {"text": "맛있게 먹어.", "label": 0}], "src_dlg_id": "d155", "did": "ten34"}
+{"context": ["오늘 시험 점수 나왔어!", "우와! 어떤데?", "당연히 잘 봤지~"], "candidates": [{"text": "헐, 부럽다.", "label": 1}, {"text": "시험 잘 봐!", "label": 0}], "src_dlg_id": "d168", "did": "ten35"}
+{"context": ["오늘 저녁으로 치킨 먹었어요.", "와, 맛있었겠다.", "치킨은 언제 먹어도 최고.."], "candidates": [{"text": "진짜 인정하는 부분...", "label": 1}, {"text": "치킨 맛있게 먹어요.", "label": 0}], "src_dlg_id": "d118", "did": "ten36"}
+{"context": ["야 오늘 게임 들어와", "아ㅋㅋㅋ 자신 있냐? 패.배.자.", "아 저번에는 컨디션이 안 좋았던 거라고ㅡㅡ"], "candidates": [{"text": "핑계 대지 마", "label": 1}, {"text": "에궁 컨디션 안 좋다니 ㅠ 어째 ㅠㅠ", "label": 0}], "src_dlg_id": "d149", "did": "ten37"}
+{"context": ["오늘 저녁으로 치킨 먹었어요.", "와, 맛있었겠다.", "치킨은 언제 먹어도 최고.."], "candidates": [{"text": "무슨 치킨 좋아해?", "label": 1}, {"text": "치킨 맛있게 먹어요.", "label": 0}], "src_dlg_id": "d118", "did": "ten38"}
+{"context": ["핸드폰 바꿨어.", "오, 뭘로?", "아이폰 12로 바꿈."], "candidates": [{"text": "너무 부럽다.", "label": 1}, {"text": "핸드폰 좀 바꿔.", "label": 0}], "src_dlg_id": "d36", "did": "ten39"}
+{"context": ["오늘 뭐했어요?", "오늘 친구 만나서 놀았어."], "candidates": [{"text": "뭐하고 놀았어요?", "label": 1}, {"text": "재밌게 놀고 와요.", "label": 0}], "src_dlg_id": "d27", "did": "ten40"}
+{"context": ["ㅎㅎ 기분 좋다.", "왜?", "시험 붙었어."], "candidates": [{"text": "헐, 붙었어?", "label": 1}, {"text": "이번엔 시험 붙을 거야!", "label": 0}], "src_dlg_id": "d114", "did": "ten41"}
+{"context": ["오늘 주말인데 뭐 해?", "나 가족들이랑 다같이 장 보러 가려고!"], "candidates": [{"text": "뭐 사야 되는데?", "label": 1}, {"text": "장 뭐 봤는데?", "label": 0}], "src_dlg_id": "d91", "did": "ten42"}
+{"context": ["나 면접 잘 볼 수 있을까?", "야 그렇게 연습했는데 못 보겠냐ㅋㅋ", "그래도 너무 떨려ㅠㅠ"], "candidates": [{"text": "그렇게 떨면 잘 할 것도 못하겠다", "label": 1}, {"text": "너라면 잘 봤을 거야", "label": 0}], "src_dlg_id": "d150", "did": "ten43"}
+{"context": ["컴퓨터 뭐로 바꿀지 아직도 모르겠어.", "뭐야, 아직도 고민하고 있음?", "응, 도저히 뭐로 바꿔야 할 지 정하지를 못하겠어."], "candidates": [{"text": "이미 시켜서 쓰고 있는 줄", "label": 1}, {"text": "컴퓨터 좋은 거로 잘 바꿨네", "label": 0}], "src_dlg_id": "d186", "did": "ten44"}
+{"context": ["뭐하니?", "영화 볼 거야."], "candidates": [{"text": "혼자서?", "label": 1}, {"text": "어제 영화 봤어?", "label": 0}], "src_dlg_id": "d196", "did": "ten45"}
+{"context": ["지금 날씨 어때?", "비 완전 많이 와."], "candidates": [{"text": "아 우산 안 들고 왔는데..", "label": 1}, {"text": "비 많이 왔었지.", "label": 0}], "src_dlg_id": "d113", "did": "ten46"}
+{"context": ["와 망했다..", "왜?ㅠㅠ", "성적 나왔는데 역대급으로 못 봤어ㅠ"], "candidates": [{"text": "에구, 공부 열심히 했을텐데 아쉽다ㅠㅠ", "label": 1}, {"text": "성적이 나오고 나서 생각해봐", "label": 0}], "src_dlg_id": "d58", "did": "ten47"}
+{"context": ["내 남자친구 이번에 공무원 합격했대!", "우와, 남친 공부 진짜 열심히 했나보네.", "응, 드디어 합격이야."], "candidates": [{"text": "정말 잘됐다.", "label": 1}, {"text": "꼭 합격할 수 있을 거야.", "label": 0}], "src_dlg_id": "d163", "did": "ten48"}
+{"context": ["와 나 배 너무 고픈데 점심 언제 먹지ㅜ"], "candidates": [{"text": "지금 당장 먹읍시다!", "label": 1}, {"text": "점심 언제 먹었어?", "label": 0}], "src_dlg_id": "d175", "did": "ten49"}
+{"context": ["우리 줌으로 치맥하자!", "치맥 좋지, 마침 딱 오는 길에 맥주 사왔는데!"], "candidates": [{"text": "오올, 타이밍 굿이네!", "label": 1}, {"text": "맥주 사러 가는 거야?", "label": 0}], "src_dlg_id": "d86", "did": "ten50"}
+{"context": ["와, 진짜 너무 힘들었다.", "오, 시험 이제 다 끝난 거야?", "응, 이제 시험 다 끝났어 ㅠㅠ"], "candidates": [{"text": "고생 진짜 왕많았다ㅜㅜ", "label": 1}, {"text": "시험 제발 끝나면 좋겠다...", "label": 0}], "src_dlg_id": "d187", "did": "ten51"}
+{"context": ["밥 먹었어?", "방금 라면 먹었어요."], "candidates": [{"text": "무슨 라면?", "label": 1}, {"text": "얼른 먹어야겠다.", "label": 0}], "src_dlg_id": "d155", "did": "ten52"}
+{"context": ["나 정말 행복해!", "무슨 일이야?", "면접 합격했지롱ㅎㅎ"], "candidates": [{"text": "너는 합격할 줄 알았어.", "label": 1}, {"text": "꼭 합격할 수 있을 거야.", "label": 0}], "src_dlg_id": "d162", "did": "ten53"}
+{"context": ["나 면접 잘 볼 수 있을까?", "야 그렇게 연습했는데 못 보겠냐ㅋㅋ", "그래도 너무 떨려ㅠㅠ"], "candidates": [{"text": "잘 할거니까 너무 걱정 마", "label": 1}, {"text": "너라면 잘 봤을 거야", "label": 0}], "src_dlg_id": "d150", "did": "ten54"}
+{"context": ["나 지금 어디게?", "어딘데??", "제주도 왔지롱!"], "candidates": [{"text": "우와, 부럽다.", "label": 1}, {"text": "제주도 언제 갈 건데?", "label": 0}], "src_dlg_id": "d43", "did": "ten55"}
+{"context": ["집에서 식빵 구웠는데 속이 잘 안 익었어ㅠㅠ"], "candidates": [{"text": "우와, 집에서 식빵도 만들 수 있어?", "label": 1}, {"text": "집 가서 식빵 굽게?", "label": 0}], "src_dlg_id": "d170", "did": "ten56"}
+{"context": ["나 핸드폰 바꿨음", "오 뭘로 바꿨는데?"], "candidates": [{"text": "새로 나온 아이폰으로 바꿈", "label": 1}, {"text": "갤럭시로 바꿔야지", "label": 0}], "src_dlg_id": "d193", "did": "ten57"}
+{"context": ["와 망했다..", "왜?ㅠㅠ", "성적 나왔는데 역대급으로 못 봤어ㅠ"], "candidates": [{"text": "다음엔 역대급으로 잘 볼 거야!", "label": 1}, {"text": "성적이 나오고 나서 생각해봐", "label": 0}], "src_dlg_id": "d58", "did": "ten58"}
+{"context": ["방금 영화 범죄도시 봤는데 완전 재밌다."], "candidates": [{"text": "정말? 나도 보고 와야겠다!", "label": 1}, {"text": "그래? 보자 보자~ ㅋㅋ", "label": 0}], "src_dlg_id": "d72", "did": "ten59"}
+{"context": ["밥 먹었어?", "아니, 너는?", "나는 냉면 먹을거야."], "candidates": [{"text": "나도 냉면 땡긴다.", "label": 1}, {"text": "냉면 어디서 먹었어?", "label": 0}], "src_dlg_id": "d108", "did": "ten60"}
+{"context": ["아 너무 힘들다.", "오늘 뭐 했어요?", "회사 갔다가 이제 집 왔어요."], "candidates": [{"text": "고생많았네.", "label": 1}, {"text": "얼른 집으로 와.", "label": 0}], "src_dlg_id": "d29", "did": "ten61"}
+{"context": ["헐 지금 눈 오네?", "미친, 지금 눈 온다고?"], "candidates": [{"text": "ㅇㅇ, 올 해 첫눈이다!!", "label": 1}, {"text": "그러니까 눈 왔었잖아", "label": 0}], "src_dlg_id": "d130", "did": "ten62"}
+{"context": ["오늘 저녁으로 치킨 먹었어요.", "와, 맛있었겠다.", "치킨은 언제 먹어도 최고.."], "candidates": [{"text": "무슨 치킨 좋아해?", "label": 1}, {"text": "맛있게 먹고 와.", "label": 0}], "src_dlg_id": "d118", "did": "ten63"}
+{"context": ["너 콘서트 간다고 했던거는 잘 갔다 왔어?", "응, 막상 가니까 너무 좋았어 진짜 ㅠㅠ"], "candidates": [{"text": "그치, 다음엔 나랑 같이 가자!", "label": 1}, {"text": "그럼 가서 잘 놀고 와! ㅎㅎ", "label": 0}], "src_dlg_id": "d182", "did": "ten64"}
+{"context": ["오늘 날씨 진짜 좋다.", "진짜, 오랜만에 날씨 싹 개서 구름 한 점 없네."], "candidates": [{"text": "그니까, 난 하늘 보는 게 그렇게 좋더라.", "label": 1}, {"text": "그러니까, 날씨 좋아졌으면 좋겠다.", "label": 0}], "src_dlg_id": "d177", "did": "ten65"}
+{"context": ["오늘 하루종일 날씨 너무 좋지 않았어?", "응, 진짜 오랜만에 하루종일 맑았던 것 같아."], "candidates": [{"text": "365일 내내 이 날씨였으면 좋겠어", "label": 1}, {"text": "오늘 하루종일 날씨 좋았으면 좋겠다", "label": 0}], "src_dlg_id": "d142", "did": "ten66"}
+{"context": ["밥 먹었어?", "아니, 너는?", "나는 냉면 먹을거야."], "candidates": [{"text": "오 좋은 생각이야.", "label": 1}, {"text": "냉면 어디서 먹었어?", "label": 0}], "src_dlg_id": "d108", "did": "ten67"}
+{"context": ["우리 줌으로 치맥하자!", "치맥 좋지, 마침 딱 오는 길에 맥주 사왔는데!"], "candidates": [{"text": "오올, 타이밍 굿이네!", "label": 1}, {"text": "맥주 사러 갈 거구나", "label": 0}], "src_dlg_id": "d86", "did": "ten68"}
+{"context": ["오늘 주말인데 뭐 해?", "나 가족들이랑 다같이 장 보러 가려고!"], "candidates": [{"text": "귀찮으면 인터넷으로 시켜!", "label": 1}, {"text": "뭐 샀는데?", "label": 0}], "src_dlg_id": "d91", "did": "ten69"}
+{"context": ["집에서 식빵 구웠는데 속이 잘 안 익었어ㅠㅠ"], "candidates": [{"text": "왜? 온도가 낮았나ㅜ", "label": 1}, {"text": "집 가서 식빵 굽게?", "label": 0}], "src_dlg_id": "d170", "did": "ten70"}
+{"context": ["양세찬 왜 이렇게 웃기냐ㅋㅋ", "나도 지금 본방 보는 중ㅋㅋ"], "candidates": [{"text": "나도 보는 중", "label": 1}, {"text": "이따 본방 봐야겠다", "label": 0}], "src_dlg_id": "d102", "did": "ten71"}
+{"context": ["해외여행 가본 적 있어?", "아니, 넌 가봤어?", "난 작년에 일본 가봤어!"], "candidates": [{"text": "우와, 부럽다.", "label": 1}, {"text": "일본 언제 갈 거야?", "label": 0}], "src_dlg_id": "d123", "did": "ten72"}
+{"context": ["와 완전 늦잠잤다.", "아이고 어제 늦게 주무셨어요?", "응 잠이 안 오더라고."], "candidates": [{"text": "그러다가 밤낮이 바뀌면 안 될텐데요.", "label": 1}, {"text": "어휴 ㅋㅋ 잠이 안 와?", "label": 0}], "src_dlg_id": "d171", "did": "ten73"}
+{"context": ["양세찬 왜 이렇게 웃기냐ㅋㅋ", "나도 지금 본방 보는 중ㅋㅋ"], "candidates": [{"text": "나도 보는 중", "label": 1}, {"text": "지금 본방하고 있으니까 얼른 봐", "label": 0}], "src_dlg_id": "d102", "did": "ten74"}
+{"context": ["어디 갔다 왔어?", "스벅에서 커피 마시고 왔어"], "candidates": [{"text": "커피 뭐 마셨어?", "label": 1}, {"text": "스벅에서 마시려고 하는구나.", "label": 0}], "src_dlg_id": "d5", "did": "ten75"}
+{"context": ["오늘 친구랑 영화보고 왔어.", "무슨 영화?", "조제!"], "candidates": [{"text": "재밌었어?", "label": 1}, {"text": "보고 나서 후기 좀ㅎㅎ", "label": 0}], "src_dlg_id": "d25", "did": "ten76"}
+{"context": ["지금 날씨 어때?", "비 완전 많이 와."], "candidates": [{"text": "큰일이네..", "label": 1}, {"text": "비 많이 왔었지.", "label": 0}], "src_dlg_id": "d113", "did": "ten77"}
+{"context": ["너 저녁 먹었어?", "아직 안 먹었는데, 너는?", "좀 이따가 칼국수 먹으려고."], "candidates": [{"text": "오옹 칼국수 맛있겠다", "label": 1}, {"text": "벌써 칼국수 다 먹었구나", "label": 0}], "src_dlg_id": "d89", "did": "ten78"}
+{"context": ["오늘 저녁으로 치킨 먹었어요.", "와, 맛있었겠다.", "치킨은 언제 먹어도 최고.."], "candidates": [{"text": "무슨 치킨 좋아해?", "label": 1}, {"text": "오늘은 치킨 먹어!", "label": 0}], "src_dlg_id": "d118", "did": "ten79"}
+{"context": ["컴퓨터 뭐로 바꿀지 아직도 모르겠어.", "뭐야, 아직도 고민하고 있음?", "응, 도저히 뭐로 바꿔야 할 지 정하지를 못하겠어."], "candidates": [{"text": "후보 보내주면 내가 골라줄게", "label": 1}, {"text": "컴퓨터 좋은 거로 잘 바꿨네", "label": 0}], "src_dlg_id": "d186", "did": "ten80"}
+{"context": ["쌤한테 혼났어ㅠㅠ", "왜?", "지각했음ㅠㅠ"], "candidates": [{"text": "아이고, 혼날만 했네.", "label": 1}, {"text": "그러다 지각하겠다.", "label": 0}], "src_dlg_id": "d166", "did": "ten81"}
+{"context": ["이번에 강릉 가기로 했어!", "헐... 나도 강릉 가고 싶어..ㅠㅠ", "ㅋㅋㅋㅋ부럽지?", "완전... 부럽다...", "가서 스트레스 좀 풀고 오려고ㅋㅋ"], "candidates": [{"text": "가서 잘 놀고 와 ㅋㅋ", "label": 1}, {"text": "오올, 스트레스가 다 풀렸구나", "label": 0}], "src_dlg_id": "d13", "did": "ten82"}
+{"context": ["뭐해?", "지금 시나리오 쓰는 중이야", "작가로 데뷔하려고?"], "candidates": [{"text": "그냥 취미지 뭐", "label": 1}, {"text": "글쎄. 시나리오나 써 볼까?", "label": 0}], "src_dlg_id": "d194", "did": "ten83"}
+{"context": ["ㅠㅠㅠ 슬프다", "왜?", "시험 떨어졌어."], "candidates": [{"text": "아이고, 어떡해.", "label": 1}, {"text": "그러다 시험 떨어지겠다", "label": 0}], "src_dlg_id": "d94", "did": "ten84"}
+{"context": ["생일인데 맛있는 거 많이 먹었어? ㅋㅋ", "응, 여자친구랑 호텔 뷔페 갔다 왔어."], "candidates": [{"text": "대박, 고급진 데 다녀왔네.", "label": 1}, {"text": "맛있게 먹고 와 ㅋㅋ", "label": 0}], "src_dlg_id": "d189", "did": "ten85"}
+{"context": ["이번에 강릉 가기로 했어!", "헐... 나도 강릉 가고 싶어..ㅠㅠ", "ㅋㅋㅋㅋ부럽지?", "완전... 부럽다...", "가서 스트레스 좀 풀고 오려고ㅋㅋ"], "candidates": [{"text": "계획은 다 짰어?", "label": 1}, {"text": "나도 갔었으면 좋을텐데", "label": 0}], "src_dlg_id": "d13", "did": "ten86"}
+{"context": ["내일 놀이공원 간다니까 너무 설렌다!", "헐... 남친이랑 같이 가?", "응응! 사귀고 나서 처음 가는 거야!"], "candidates": [{"text": "ㅋㅋ 가서 잘 놀고 와", "label": 1}, {"text": "언제 사귈거야?", "label": 0}], "src_dlg_id": "d105", "did": "ten87"}
+{"context": ["오늘 친구들 잘 만났어?", "응, 이제 집 들어옴! ㅋㅋ", "기분 엄청 좋아보이네 ㅎㅎㅎ", "맞아, 오랜만에 너무 잘 놀았어 ㅋㅋ"], "candidates": [{"text": "애들이랑 뭐하고 놀았어?", "label": 1}, {"text": "그럼 잘 놀고 와!", "label": 0}], "src_dlg_id": "d145", "did": "ten88"}
+{"context": ["오늘 친구들 잘 만났어?", "응, 이제 집 들어옴! ㅋㅋ", "기분 엄청 좋아보이네 ㅎㅎㅎ", "맞아, 오랜만에 너무 잘 놀았어 ㅋㅋ"], "candidates": [{"text": "애들이랑 뭐하고 놀았어?", "label": 1}, {"text": "ㅋㅋ 재미있게 놀고 있구나", "label": 0}], "src_dlg_id": "d145", "did": "ten89"}
+{"context": ["나 강아지 키운다!", "헐 완전 부러워ㅠㅠ", "내일 데리러 갈 거야!"], "candidates": [{"text": "완전 설레겠다.", "label": 1}, {"text": "오 데려왔구나", "label": 0}], "src_dlg_id": "d198", "did": "ten90"}
+{"context": ["휴가 어땠어?", "너무 오랜만에 잘 쉬어서 좋았어."], "candidates": [{"text": "오오 힐링 제대로 했나보다", "label": 1}, {"text": "가서 잘 쉬고 와 ㅎㅎ", "label": 0}], "src_dlg_id": "d184", "did": "ten91"}
+{"context": ["뭐하니?", "영화 볼 거야."], "candidates": [{"text": "무슨 영화 볼 건데?", "label": 1}, {"text": "어제 영화 봤어?", "label": 0}], "src_dlg_id": "d196", "did": "ten92"}
+{"context": ["이제 치맥하면서 펜트하우스 보려고.", "배달시켰어?", "응 20분 뒤에 도착한대!"], "candidates": [{"text": "20분? 진짜 총알배송이네!", "label": 1}, {"text": "아 치맥 먹었구나!", "label": 0}], "src_dlg_id": "d66", "did": "ten93"}
+{"context": ["손목이 너무 아프다ㅠ", "마우스 많이 써서 그런가 보다ㅠ", "맞아ㅠ 이따 병원을 가보려고ㅠ"], "candidates": [{"text": "응응, 손목 쿠션 같은 것도 사 봐.", "label": 1}, {"text": "병원 갔다 왔어요?", "label": 0}], "src_dlg_id": "d70", "did": "ten94"}
+{"context": ["드디어 독립을 했다..!", "미쳤다ㅠㅠ 개부러워ㅠㅠㅠ"], "candidates": [{"text": "너도 얼른 독립해 ㅎㅎ", "label": 1}, {"text": "나는 내년 중에 독립할거야", "label": 0}], "src_dlg_id": "d14", "did": "ten95"}
+{"context": ["핸드폰 바꿨어.", "오, 뭘로?", "아이폰 12로 바꿈."], "candidates": [{"text": "좋겠다.", "label": 1}, {"text": "핸드폰 좀 바꿔.", "label": 0}], "src_dlg_id": "d36", "did": "ten96"}
+{"context": ["오늘 주말인데 뭐 해?", "나 가족들이랑 다같이 장 보러 가려고!"], "candidates": [{"text": "뭐 사야 되는데?", "label": 1}, {"text": "뭐 샀는데?", "label": 0}], "src_dlg_id": "d91", "did": "ten97"}
+{"context": ["무슨 좋은 일 있어?", "이번에 성적 장학금 받았거든!"], "candidates": [{"text": "네가 받을 줄 알았어.", "label": 1}, {"text": "장학금 받을 수 있을 거야!", "label": 0}], "src_dlg_id": "d164", "did": "ten98"}
+{"context": ["다이소에 별게 다 파네.", "다이소는 왜 갔어?", "치약 사러."], "candidates": [{"text": "다이소에 신기한 거 많아?", "label": 1}, {"text": "ㅇㅇ 다이소 잘 갔다 와.", "label": 0}], "src_dlg_id": "d32", "did": "ten99"}
+{"context": ["야, 꼬북칩 집에 있던거 니가 다 먹었음?", "응, 얼마 안 남았길래 다 먹었지"], "candidates": [{"text": "내일 네가 하나 사놔라ㅡㅡ", "label": 1}, {"text": "그럼 맛있게 먹어!", "label": 0}], "src_dlg_id": "d188", "did": "ten100"}
+{"context": ["오늘 뭐 먹을 거야?", "나 치킨 먹을거야."], "candidates": [{"text": "맛있겠다.", "label": 1}, {"text": "어디서 시켜 먹었어?", "label": 0}], "src_dlg_id": "d22", "did": "ten101"}
+{"context": ["오늘 주말인데 뭐 해?", "나 가족들이랑 다같이 장 보러 가려고!"], "candidates": [{"text": "뭐 사야 되는데?", "label": 1}, {"text": "시장 갔어?", "label": 0}], "src_dlg_id": "d91", "did": "ten102"}
+{"context": ["손목이 너무 아프다ㅠ", "마우스 많이 써서 그런가 보다ㅠ", "맞아ㅠ 이따 병원을 가보려고ㅠ"], "candidates": [{"text": "그래, 당분간 마우스는 안 쓰는 게 좋겠다.", "label": 1}, {"text": "병원 갔다 왔어요?", "label": 0}], "src_dlg_id": "d70", "did": "ten103"}
+{"context": ["나 오늘 신촌에서 윤 선배 만났다,", "대박. 뭐했는데?? 술 마셨어?", "아니 ㅎㅎ 그냥 차 한잔 마셨어."], "candidates": [{"text": "잘 했네. 반가웠겠다.", "label": 1}, {"text": "아 술 말고 차 마시려고?", "label": 0}], "src_dlg_id": "d64", "did": "ten104"}
+{"context": ["뭐하니?", "영화 볼 거야."], "candidates": [{"text": "무슨 영화 볼 건데?", "label": 1}, {"text": "친구랑 영화 봤구나", "label": 0}], "src_dlg_id": "d196", "did": "ten105"}
+{"context": ["와, 오늘 저녁 진짜 잘 먹었다 그치?", "진짜, 회만으로 이렇게 배 채운 거는 처음인 듯"], "candidates": [{"text": "종류 다양하게 진짜 많이 잘 먹었다", "label": 1}, {"text": "저녁 맛있게 먹고 와 ㅋㅋㅋ", "label": 0}], "src_dlg_id": "d185", "did": "ten106"}
+{"context": ["나 오늘 신촌에서 윤 선배 만났다,", "대박. 뭐했는데?? 술 마셨어?", "아니 ㅎㅎ 그냥 차 한잔 마셨어."], "candidates": [{"text": "ㅋㅋㅋ 무슨 이야기 했어?", "label": 1}, {"text": "아 술 말고 차 마시려고?", "label": 0}], "src_dlg_id": "d64", "did": "ten107"}
+{"context": ["나 폰 바꿨다ㅋㅋㅋㅋㅋㅋㅋ", "헐... 너무 부럽다...", "아는 사람한테 죄다 자랑하는 중임ㅋㅋㅋㅋ"], "candidates": [{"text": "근데 뭐로 삼?", "label": 1}, {"text": "폰 언제 바꿔?", "label": 0}], "src_dlg_id": "d11", "did": "ten108"}
+{"context": ["양세찬 왜 이렇게 웃기냐ㅋㅋ", "나도 지금 본방 보는 중ㅋㅋ"], "candidates": [{"text": "개그맨 중에서 제일 웃긴 것 같아", "label": 1}, {"text": "지금 본방하고 있으니까 얼른 봐", "label": 0}], "src_dlg_id": "d102", "did": "ten109"}
+{"context": ["너 베테랑 봤어? 진짜 재밌다!", "응, 나 그 영화 다 봤지."], "candidates": [{"text": "역시, 빨리 봤구나.", "label": 1}, {"text": "재밌게 보고 와", "label": 0}], "src_dlg_id": "d167", "did": "ten110"}
+{"context": ["나 핸드폰 바꿨음", "오 뭘로 바꿨는데?"], "candidates": [{"text": "갤럭시 신형으로 바꿨어", "label": 1}, {"text": "갤럭시로 바꿔야지", "label": 0}], "src_dlg_id": "d193", "did": "ten111"}
+{"context": ["반차 내고 퇴근해서 집 오니까 너무 좋다 ㅠㅠ", "아, 오늘 반차 완전 부럽다 ㅠㅠ", "역시 집이 좋아 ㅎ"], "candidates": [{"text": "진짜 네가 승리자다", "label": 1}, {"text": "집 빨리 가 ㅎ", "label": 0}], "src_dlg_id": "d200", "did": "ten112"}
+{"context": ["ㅠㅠㅠ 슬프다", "왜?", "시험 떨어졌어."], "candidates": [{"text": "헐, 속상하겠다.", "label": 1}, {"text": "그러다 시험 떨어지겠다", "label": 0}], "src_dlg_id": "d94", "did": "ten113"}
+{"context": ["이제 치맥하면서 펜트하우스 보려고.", "배달시켰어?", "응 20분 뒤에 도착한대!"], "candidates": [{"text": "크으, 정말 완벽한 조합이다!", "label": 1}, {"text": "아 치맥 먹었구나!", "label": 0}], "src_dlg_id": "d66", "did": "ten114"}
+{"context": ["와 완전 늦잠잤다.", "아이고 어제 늦게 주무셨어요?", "응 잠이 안 오더라고."], "candidates": [{"text": "오늘은 푹 주무셨으면 좋겠네요.", "label": 1}, {"text": "어휴 ㅋㅋ 잠이 안 와?", "label": 0}], "src_dlg_id": "d171", "did": "ten115"}
+{"context": ["너 저녁 먹었어?", "아직 안 먹었는데, 너는?", "좀 이따가 칼국수 먹으려고."], "candidates": [{"text": "굳굳 날도 추운데 칼국수 최고지", "label": 1}, {"text": "칼국수 먹었냐", "label": 0}], "src_dlg_id": "d89", "did": "ten116"}
+{"context": ["밥 먹었어?", "방금 라면 먹었어요."], "candidates": [{"text": "나도 라면이나 먹을까.", "label": 1}, {"text": "얼른 먹어야겠다.", "label": 0}], "src_dlg_id": "d155", "did": "ten117"}
+{"context": ["너 콘서트 간다고 했던거는 잘 갔다 왔어?", "응, 막상 가니까 너무 좋았어 진짜 ㅠㅠ"], "candidates": [{"text": "오오, 나도 한 번 가보고 싶다", "label": 1}, {"text": "그럼 가서 잘 놀고 와! ㅎㅎ", "label": 0}], "src_dlg_id": "d182", "did": "ten118"}
+{"context": ["나 지금 어디게?", "어딘데??", "제주도 왔지롱!"], "candidates": [{"text": "제주도 어때?", "label": 1}, {"text": "제주도 언제 갈 건데?", "label": 0}], "src_dlg_id": "d43", "did": "ten119"}
+{"context": ["오늘 친구들 잘 만났어?", "응, 이제 집 들어옴! ㅋㅋ", "기분 엄청 좋아보이네 ㅎㅎㅎ", "맞아, 오랜만에 너무 잘 놀았어 ㅋㅋ"], "candidates": [{"text": "친구들이랑 노는 게 최고지.", "label": 1}, {"text": "ㅋㅋ 재미있게 놀고 있구나", "label": 0}], "src_dlg_id": "d145", "did": "ten120"}
+{"context": ["와, 오늘 저녁 진짜 잘 먹었다 그치?", "진짜, 회만으로 이렇게 배 채운 거는 처음인 듯"], "candidates": [{"text": "나도ㅋㅋ 우리 엄청 많이 먹은 듯", "label": 1}, {"text": "저녁 맛있게 먹고 와 ㅋㅋㅋ", "label": 0}], "src_dlg_id": "d185", "did": "ten121"}
+{"context": ["오늘 뭐했어요?", "오늘 친구 만나서 놀았어."], "candidates": [{"text": "어디서 놀았는데?", "label": 1}, {"text": "재밌게 놀고 와요.", "label": 0}], "src_dlg_id": "d27", "did": "ten122"}
+{"context": ["야, 저녁 뭐 먹을까.", "걍 있는 거 먹지 뭘 물어.", "집에 먹을 거 하나도 안 사놨는데 돈도 없음 ㅋㅋㅋ"], "candidates": [{"text": "미친, 울집 반찬 좀 가져갈래?", "label": 1}, {"text": "맛있게 먹었어?", "label": 0}], "src_dlg_id": "d140", "did": "ten123"}
+{"context": ["오늘 친구랑 영화보고 왔어.", "무슨 영화?", "조제!"], "candidates": [{"text": "어떤 내용인데?", "label": 1}, {"text": "보고 나서 후기 좀ㅎㅎ", "label": 0}], "src_dlg_id": "d25", "did": "ten124"}
+{"context": ["오늘 저녁으로 치킨 먹었어요.", "와, 맛있었겠다.", "치킨은 언제 먹어도 최고.."], "candidates": [{"text": "진짜 인정하는 부분...", "label": 1}, {"text": "맛있게 먹고 와.", "label": 0}], "src_dlg_id": "d118", "did": "ten125"}
+{"context": ["오늘 하루 어땠어?", "하루종일 밖에 있어서 피곤해 ㅠ"], "candidates": [{"text": "얼른 들어가서 쉬어.", "label": 1}, {"text": "오늘은 좀 덜 피곤했으면 좋겠네.", "label": 0}], "src_dlg_id": "d152", "did": "ten126"}
+{"context": ["아, 심심한데 뭐하냐", "나 지금 운동 하는 중", "운동 끝나고 맥주나 한 잔 할래?", "맥주 좋지, 어디서 볼까?"], "candidates": [{"text": "다리 밑에서 보자!", "label": 1}, {"text": "너 벌써 맥주 한 잔 했냐?", "label": 0}], "src_dlg_id": "d143", "did": "ten127"}
+{"context": ["연말인데 뭐 하고 계세요?", "지금 언니 따라 안양천에 러닝하러 왔어"], "candidates": [{"text": "건강한 연말을 보내고 계시는군요!", "label": 1}, {"text": "내일 러닝하러 가는 거야?", "label": 0}], "src_dlg_id": "d80", "did": "ten128"}
+{"context": ["방금 영화 범죄도시 봤는데 완전 재밌다."], "candidates": [{"text": "오, 그거 요즘 평이 좋더라구요!", "label": 1}, {"text": "그래? 보자 보자~ ㅋㅋ", "label": 0}], "src_dlg_id": "d72", "did": "ten129"}
+{"context": ["너 콘서트 간다고 했던거는 잘 갔다 왔어?", "응, 막상 가니까 너무 좋았어 진짜 ㅠㅠ"], "candidates": [{"text": "그치, 다음엔 나랑 같이 가자!", "label": 1}, {"text": "콘서트 잘 갔다 와~!", "label": 0}], "src_dlg_id": "d182", "did": "ten130"}
+{"context": ["쌤한테 혼났어ㅠㅠ", "왜?", "지각했음ㅠㅠ"], "candidates": [{"text": "그러게 왜 지각을 해. ㅠㅠ", "label": 1}, {"text": "그러다 지각하겠다.", "label": 0}], "src_dlg_id": "d166", "did": "ten131"}
+{"context": ["오늘 뭐 먹을 거야?", "나 치킨 먹을거야."], "candidates": [{"text": "나도 치킨 먹고 싶다.", "label": 1}, {"text": "어디서 시켜 먹었어?", "label": 0}], "src_dlg_id": "d22", "did": "ten132"}
+{"context": ["우리 줌으로 치맥하자!", "치맥 좋지, 마침 딱 오는 길에 맥주 사왔는데!"], "candidates": [{"text": "그럼 이제 치킨만 시키면 되겠네!", "label": 1}, {"text": "맥주 사러 갈 거구나", "label": 0}], "src_dlg_id": "d86", "did": "ten133"}
+{"context": ["이번에 강릉 가기로 했어!", "헐... 나도 강릉 가고 싶어..ㅠㅠ", "ㅋㅋㅋㅋ부럽지?", "완전... 부럽다...", "가서 스트레스 좀 풀고 오려고ㅋㅋ"], "candidates": [{"text": "가서 잘 놀고 와 ㅋㅋ", "label": 1}, {"text": "나도 갔었으면 좋을텐데", "label": 0}], "src_dlg_id": "d13", "did": "ten134"}
+{"context": ["와, 이제야 다 갔네", "ㅋㅋ 오늘 조카들 잘 봐줬어?", "응, 애들 돌보는 거 진짜 어렵더라."], "candidates": [{"text": "ㅋㅋ힘든 게 여기까지 느껴져", "label": 1}, {"text": "아이고, 그럼 하루종일 애들 돌보느라 고생하겠다 ㅠㅠ", "label": 0}], "src_dlg_id": "d190", "did": "ten135"}
+{"context": ["이번에 강릉 가기로 했어!", "헐... 나도 강릉 가고 싶어..ㅠㅠ", "ㅋㅋㅋㅋ부럽지?", "완전... 부럽다...", "가서 스트레스 좀 풀고 오려고ㅋㅋ"], "candidates": [{"text": "계획은 다 짰어?", "label": 1}, {"text": "오올, 스트레스가 다 풀렸구나", "label": 0}], "src_dlg_id": "d13", "did": "ten136"}
+{"context": ["오늘 날씨 진짜 좋다.", "진짜, 오랜만에 날씨 싹 개서 구름 한 점 없네."], "candidates": [{"text": "미세먼지도 완전 좋아", "label": 1}, {"text": "그러니까, 날씨 좋아졌으면 좋겠다.", "label": 0}], "src_dlg_id": "d177", "did": "ten137"}
+{"context": ["휴가 어땠어?", "너무 오랜만에 잘 쉬어서 좋았어."], "candidates": [{"text": "개부러워!", "label": 1}, {"text": "가서 잘 쉬고 와 ㅎㅎ", "label": 0}], "src_dlg_id": "d184", "did": "ten138"}
+{"context": ["우리 줌으로 치맥하자!", "치맥 좋지, 마침 딱 오는 길에 맥주 사왔는데!"], "candidates": [{"text": "그럼 이제 치킨만 시키면 되겠네!", "label": 1}, {"text": "맥주 사러 가는 거야?", "label": 0}], "src_dlg_id": "d86", "did": "ten139"}
+{"context": ["오늘 일기예보 봤어?", "아니, 오늘 날씨 어때?", "비 오니까 우산 꼭 챙겨."], "candidates": [{"text": "고마워.", "label": 1}, {"text": "비 많이 왔어?", "label": 0}], "src_dlg_id": "d119", "did": "ten140"}
+{"context": ["어디 갔다 왔어?", "스벅에서 커피 마시고 왔어"], "candidates": [{"text": "어디 카페 갔다 왔어?", "label": 1}, {"text": "지금 커피 마시고 있어?", "label": 0}], "src_dlg_id": "d5", "did": "ten141"}
+{"context": ["야, 꼬북칩 집에 있던거 니가 다 먹었음?", "응, 얼마 안 남았길래 다 먹었지"], "candidates": [{"text": "아놔 그거 내가 남겨둔건데~!", "label": 1}, {"text": "그럼 맛있게 먹어!", "label": 0}], "src_dlg_id": "d188", "did": "ten142"}
+{"context": ["내일 놀이공원 간다니까 너무 설렌다!", "헐... 남친이랑 같이 가?", "응응! 사귀고 나서 처음 가는 거야!"], "candidates": [{"text": "갔다와서 어땠는지 꼭 알려줘", "label": 1}, {"text": "언제 사귈거야?", "label": 0}], "src_dlg_id": "d105", "did": "ten143"}
+{"context": ["방금 영화 범죄도시 봤는데 완전 재밌다."], "candidates": [{"text": "정말? 나도 보고 와야겠다!", "label": 1}, {"text": "오. 재밌게 봐.", "label": 0}], "src_dlg_id": "d72", "did": "ten144"}
+{"context": ["너 저녁 먹었어?", "아직 안 먹었는데, 너는?", "좀 이따가 칼국수 먹으려고."], "candidates": [{"text": "오옹 칼국수 맛있겠다", "label": 1}, {"text": "칼국수 먹었냐", "label": 0}], "src_dlg_id": "d89", "did": "ten145"}
+{"context": ["무슨 좋은 일 있어?", "이번에 성적 장학금 받았거든!"], "candidates": [{"text": "축하해!", "label": 1}, {"text": "장학금 받을 수 있을 거야!", "label": 0}], "src_dlg_id": "d164", "did": "ten146"}
+{"context": ["양세찬 왜 이렇게 웃기냐ㅋㅋ", "나도 지금 본방 보는 중ㅋㅋ"], "candidates": [{"text": "개그맨 중에서 제일 웃긴 것 같아", "label": 1}, {"text": "이따 본방 봐야겠다", "label": 0}], "src_dlg_id": "d102", "did": "ten147"}
+{"context": ["오늘 주말인데 뭐 해?", "나 가족들이랑 다같이 장 보러 가려고!"], "candidates": [{"text": "귀찮으면 인터넷으로 시켜!", "label": 1}, {"text": "장 뭐 봤는데?", "label": 0}], "src_dlg_id": "d91", "did": "ten148"}
+{"context": ["오늘 하루 어땠어?", "하루종일 밖에 있어서 피곤해 ㅠ"], "candidates": [{"text": "에고 고생 많았다.", "label": 1}, {"text": "오늘은 좀 덜 피곤했으면 좋겠네.", "label": 0}], "src_dlg_id": "d152", "did": "ten149"}
+{"context": ["와, 이제야 다 갔네", "ㅋㅋ 오늘 조카들 잘 봐줬어?", "응, 애들 돌보는 거 진짜 어렵더라."], "candidates": [{"text": "그치, 체력소모도 장난 아니지 않아?", "label": 1}, {"text": "아이고, 그럼 하루종일 애들 돌보느라 고생하겠다 ㅠㅠ", "label": 0}], "src_dlg_id": "d190", "did": "ten150"}
+{"context": ["오늘 일기예보 봤어?", "아니, 오늘 날씨 어때?", "비 오니까 우산 꼭 챙겨."], "candidates": [{"text": "비 싫은데.", "label": 1}, {"text": "비 많이 왔어?", "label": 0}], "src_dlg_id": "d119", "did": "ten151"}
+{"context": ["오늘 하루종일 날씨 너무 좋지 않았어?", "응, 진짜 오랜만에 하루종일 맑았던 것 같아."], "candidates": [{"text": "날씨가 좋으니까 기분도 너무 좋아", "label": 1}, {"text": "오늘 하루종일 날씨 좋았으면 좋겠다", "label": 0}], "src_dlg_id": "d142", "did": "ten152"}
+{"context": ["뭐하니?", "영화 볼 거야."], "candidates": [{"text": "혼자서?", "label": 1}, {"text": "친구랑 영화 봤구나", "label": 0}], "src_dlg_id": "d196", "did": "ten153"}
+{"context": ["ㅎㅎ 기분 좋다.", "왜?", "시험 붙었어."], "candidates": [{"text": "지난 번에 본 그 시험?", "label": 1}, {"text": "이번엔 시험 붙을 거야!", "label": 0}], "src_dlg_id": "d114", "did": "ten154"}
+{"context": ["다이소에 별게 다 파네.", "다이소는 왜 갔어?", "치약 사러."], "candidates": [{"text": "치약 벌써 다 썼어?", "label": 1}, {"text": "ㅇㅇ 다이소 잘 갔다 와.", "label": 0}], "src_dlg_id": "d32", "did": "ten155"}
+{"context": ["오늘 친구들 잘 만났어?", "응, 이제 집 들어옴! ㅋㅋ", "기분 엄청 좋아보이네 ㅎㅎㅎ", "맞아, 오랜만에 너무 잘 놀았어 ㅋㅋ"], "candidates": [{"text": "친구들이랑 노는 게 최고지.", "label": 1}, {"text": "그럼 잘 놀고 와!", "label": 0}], "src_dlg_id": "d145", "did": "ten156"}
+{"context": ["드디어 독립을 했다..!", "미쳤다ㅠㅠ 개부러워ㅠㅠㅠ"], "candidates": [{"text": "ㅇㅇㅇ 넘 좋음!!", "label": 1}, {"text": "나는 내년 중에 독립할거야", "label": 0}], "src_dlg_id": "d14", "did": "ten157"}
+{"context": ["나 강아지 키운다!", "헐 완전 부러워ㅠㅠ", "내일 데리러 갈 거야!"], "candidates": [{"text": "나도 같이 가면 안돼?", "label": 1}, {"text": "오 데려왔구나", "label": 0}], "src_dlg_id": "d198", "did": "ten158"}
