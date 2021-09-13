@@ -1,7 +1,6 @@
 # Adversarial Test Dataset for Korean Multi-turn Response Selection
 
-This is the adversarial test dataset repository for our paper [*An Evaluation Dataset and Strategy for Building Robust Multi-turn Response Selection Model*]()
-
+This is the repository for adversarial test dataset used in our EMNLP 2021 paper [*An Evaluation Dataset and Strategy for Building Robust Multi-turn Response Selection Model*](https://arxiv.org/abs/2109.04834)
 
 ## Overview
 ![Table](table.png)
@@ -45,6 +44,7 @@ If you use this in your research, please cite as:
 @inproceedings{han2021advmrs,
   title={An Evaluation Dataset and Strategy for Building Robust Multi-turn Response Selection Model},
   author={Han, Kijong and Lee, Seojin and Lee, Wooin and Lee, Joosung and Lee, Dong-hun},
+  booktitle={Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
   year={2021}
 }
 ```
