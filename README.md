@@ -1,6 +1,6 @@
 # Adversarial Test Dataset for Korean Multi-turn Response Selection
 
-This is the repository for adversarial test dataset used in our EMNLP 2021 paper [*An Evaluation Dataset and Strategy for Building Robust Multi-turn Response Selection Model*](https://arxiv.org/abs/2109.04834)
+This is the repository for adversarial test dataset used in our EMNLP 2021 paper [*An Evaluation Dataset and Strategy for Building Robust Multi-turn Response Selection Model*](https://arxiv.org/abs/2109.04834). This dataset and strategy of the paper were utilized to develop several systems, including open-domain chatbot [외개인아가](https://pf.kakao.com/_lKxoMT).
 
 ## Overview
 ![Table](table.png)
